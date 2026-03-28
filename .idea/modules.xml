@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApi/MyApi.iml" filepath="$PROJECT_DIR$/MyApi/MyApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-code.test2.iml" filepath="$PROJECT_DIR$/basic-code.test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day3/day3.iml" filepath="$PROJECT_DIR$/day3/day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day4/day4.iml" filepath="$PROJECT_DIR$/day4/day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gedouyouxi/gedouyouxi.iml" filepath="$PROJECT_DIR$/gedouyouxi/gedouyouxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-abstract/oop-abstract.iml" filepath="$PROJECT_DIR$/oop-abstract/oop-abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-extends/oop-extends.iml" filepath="$PROJECT_DIR$/oop-extends/oop-extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student1/student1.iml" filepath="$PROJECT_DIR$/student1/student1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentlistc/studentlistc.iml" filepath="$PROJECT_DIR$/studentlistc/studentlistc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studenttest/studenttest.iml" filepath="$PROJECT_DIR$/studenttest/studenttest.iml" />
+    </modules>
+  </component>
+</project>
