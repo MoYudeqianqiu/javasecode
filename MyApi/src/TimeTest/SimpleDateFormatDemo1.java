@@ -18,5 +18,6 @@ public class SimpleDateFormatDemo1 {
         SimpleDateFormat sdf1 = new SimpleDateFormat("yyyy年MM月dd天 HH:mm:ss E");
         Date d2=new Date(0L);
         System.out.println(sdf1.format(d2));
+        //
     }
 }
