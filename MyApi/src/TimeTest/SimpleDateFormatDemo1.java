@@ -5,6 +5,11 @@ import java.util.Date;
 
 public class SimpleDateFormatDemo1 {
     static void main(String[] args) {
+        //SimpleDateFormat的基本用法
+        extracted();
+    }
+
+    private static void extracted() {
         //1:利用空参构造实现SimpleDateFormat类,默认格式
         SimpleDateFormat sdf = new SimpleDateFormat();
         Date d1=new Date(0L);
