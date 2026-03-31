@@ -2,7 +2,7 @@ package TimeTest;
 
 import java.time.*;
 
-public class jdk8TimeLocalDate {
+public class jdk8TimeLocalDate1 {
     static void main(String[] args) {
         //获取当前时间或者自定义复值时间
         //date精确到年月日
