@@ -11,7 +11,7 @@ public class BlockSearch {
         //创建索引数组
         Block[] blocks = {b1, b2, b3};
         //记录要查找的元素
-        int nummer = 61;
+        int nummer = 5;
         int index = getIndex(blocks, arr, nummer);
         if (index == -1) {
             System.out.println("没有找到");
