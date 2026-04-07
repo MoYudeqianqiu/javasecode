@@ -1,15 +1,18 @@
 package MySort;
 
+import java.util.Arrays;
+
 public class A04_QuickSortDemo {
     public static void main(String[] args) {
         //快速排序
         int[] arr = {6, 1, 2, 7, 9, 3, 4, 5, 10, 8};
         //选0下标的数字为基准数
+
         quickSort(arr, 0, arr.length - 1);
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
         }
-
+        System.out.println();
     }
 
     private static void quickSort(int[] arr, int i, int j) {
