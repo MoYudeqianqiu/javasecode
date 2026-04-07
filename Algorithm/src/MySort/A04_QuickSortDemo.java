@@ -42,5 +42,4 @@ public class A04_QuickSortDemo {
         quickSort(arr, i, start - 1);
         quickSort(arr, start + 1, j);
     }
-
 }
