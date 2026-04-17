@@ -14,6 +14,7 @@ public class Student2 implements Comparable<Student2> {
 
     /**
      * 获取
+     *
      * @return name
      */
     public String getName() {
@@ -22,6 +23,7 @@ public class Student2 implements Comparable<Student2> {
 
     /**
      * 设置
+     *
      * @param name
      */
     public void setName(String name) {
@@ -30,6 +32,7 @@ public class Student2 implements Comparable<Student2> {
 
     /**
      * 获取
+     *
      * @return age
      */
     public int getAge() {
@@ -38,6 +41,7 @@ public class Student2 implements Comparable<Student2> {
 
     /**
      * 设置
+     *
      * @param age
      */
     public void setAge(int age) {
@@ -50,9 +54,9 @@ public class Student2 implements Comparable<Student2> {
 
     @Override
     public int compareTo(Student2 o) {
-        int i=this.getAge()-o.getAge();
-        if(i==0){
-            i=this.getName().compareTo(o.getName());
+        int i = this.getAge() - o.getAge();
+        if (i == 0) {
+            i = this.getName().compareTo(o.getName());
         }
         return i;
     }
